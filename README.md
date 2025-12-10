@@ -109,21 +109,32 @@ fun main() {
  
 ## GitHub Streak, Stats & Top Languages
 <div style="display: flex;">
-    <img src="https://streak-stats.demolab.com?user=devcavin&theme=outrun" alt="GitHub Streak" style="width: 35%; height: auto; padding-right:10px;" />
+    <picture>
+        <source srcset="https://github-readme-streak-stats-eight.vercel.app?user=devcavin&theme=outrun" />
+        <source srcset="https://github-readme-streak-stats-mauve.vercel.app?user=devcavin&theme=outrun" />
+        <source srcset="https://streak-stats.demolab.com?user=devcavin&theme=outrun" />
+        <img src="https://img.shields.io/badge/GitHub_Streak-unavailable-lightgray?style=for-the-badge" alt="GitHub Streak" style="width: 35%; height: auto; padding-right:10px;">
+    </picture>
     <picture>
         <source srcset="https://github-readme-stats-fast.vercel.app/api?username=devcavin&show_icons=true&theme=algolia" />
         <source srcset="https://github-readme-stats.zcy.dev/api?username=devcavin&show_icons=true&theme=algolia" />
+        <source srcset="https://github-readme-stats-ten-neon-77.vercel.app/api?username=devcavin&show_icons=true&theme=algolia" />
         <img src="https://img.shields.io/badge/GitHub_Stats-unavailable-lightgray?style=for-the-badge" alt="GitHub Stats" style="width: 33%; height: auto; padding-right:10px;">
     </picture>
     <picture>
-      <source srcset="https://github-readme-stats-fast.vercel.app/api/top-langs?username=devcavin&show_icons=true&locale=en&theme=yeblu&limit=15&layout=compact" />
-        <source srcset="https://github-readme-stats.zcy.dev/api/top-langs?username=devcavin&show_icons=true&locale=en&theme=yeblu&limit=15&layout=compact" />
+      <source srcset="https://github-readme-stats-fast.vercel.app/api/top-langs?username=devcavin&count_private=true&show_icons=true&hide_border=false&layout=compact&langs_count=16&card_width=500&theme=yeblu" />
+        <source srcset="https://github-readme-stats.zcy.dev/api/top-langs?username=devcavin&count_private=true&show_icons=true&hide_border=false&layout=compact&langs_count=16&card_width=500&theme=yeblu" />
+        <source srcset="https://github-readme-stats-ten-neon-77.vercel.app/api/top-langs/?username=devcavin&count_private=true&show_icons=true&hide_border=false&layout=compact&langs_count=16&card_width=500&theme=yeblu"/>
         <img src="https://img.shields.io/badge/Top_Langs-unavailable-lightgray?style=for-the-badge" alt="Top Langs" style="width: 25%; height: auto; padding-right:10px;">
     </picture>
 </div>
  
 ## GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=devcavin&row=1&column=10)
+<picture>
+    <source srcset="https://github-profile-trophy-seven-phi.vercel.app/?username=devcavin&row=1&column=10" />
+    <source srcset="https://github-profile-trophy.vercel.app/?username=devcavin&row=1&column=10" />
+    <img src="https://img.shields.io/badge/GitHub_Trophies-unavailable-lightgray?style=for-the-badge" alt="GitHub Trophies">
+</picture>
 
 
 
