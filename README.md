@@ -1,11 +1,18 @@
 <!-- Killercavin@CalaTech -->
 
 <p align="center">
-    <img src="/images/bunner.png" alt="profile banner image">
+    <img src="./images/bunner.png" alt="profile banner image">
 </p>
 
 <p align="center">
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="coder image" width="150">
+</p>
+
+<!-- GitHub Star link -->
+<p align="center">
+    <a href="https://stars.github.com/profiles/devcavin/">
+        <img src="./images/github-star.png" alt="GitHub Star"/>
+    </a>
 </p>
 
 <p align="center">
