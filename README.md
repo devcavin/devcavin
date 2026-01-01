@@ -1,7 +1,7 @@
 <!-- Killercavin@CalaTech -->
 
 <p align="center">
-    <img src="./images/bunner.png" alt="profile banner image">
+    <img src="./images/banner.png" alt="profile banner image">
 </p>
 
 <p align="center">
