@@ -19,7 +19,7 @@
     <samp>
         <strong>– CAVIN –</strong>
         <br/>
-        FrontEnd Developer | Open Source Contributor | BackEnd Developer(Ktor, SpringBoot)
+        Software Developer | Open Source Contributor | BackEnd Developer(Ktor, SpringBoot)
     </samp>
 </p>
 
@@ -58,7 +58,7 @@
 
 - 👋 Hi, I’m [Cavin](https://cavinlarry.vercel.app) <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="25"></h3>
 - 👀 I’m a developer who loves listening to what humans and machines have say to me
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently learning Kotlin & TypeScript
 - 💞️ I’m looking to collaborate on anything that I can help with
 - 📫 How to reach me on [Discord](https://discordapp.com/users/devcavin)
 
@@ -142,6 +142,8 @@ fun main() {
     <source srcset="https://github-profile-trophy.vercel.app/?username=devcavin&row=1&column=10" />
     <img src="https://img.shields.io/badge/GitHub_Trophies-unavailable-lightgray?style=for-the-badge" alt="GitHub Trophies">
 </picture>
+
+
 
 
 
