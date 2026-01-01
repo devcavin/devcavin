@@ -58,7 +58,7 @@
 
 - 👋 Hi, I’m [Cavin](https://cavinlarry.vercel.app) <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="25"></h3>
 - 👀 I’m a developer who loves listening to what humans and machines have say to me
-- 🌱 I’m currently learning Kotlin & TypeScript
+- 🌱 I’m currently learning Kotlin & JavaScript
 - 💞️ I’m looking to collaborate on anything that I can help with
 - 📫 How to reach me on [Discord](https://discordapp.com/users/devcavin)
 
