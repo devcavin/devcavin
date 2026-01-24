@@ -93,6 +93,7 @@ fun main() {
     <th><h3 align="center">Languages</h3></th>
     <th><h3 align="center">Libraries & Frameworks</h3></th>
     <th><h3 align="center">Database</h3></th>
+    <th><h3 align="center">Tools</h3></th>
   </tr>
   <tr>
     <td>
@@ -103,13 +104,21 @@ fun main() {
     </td>
     <td>
       <img alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+      <img alt="Next.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="padding-right:10px;" />
+      <!-- <img alt="NestJS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" style="padding-right:10px;" /> -->
       <img alt="Ktor" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ktor/ktor-original.svg" style="padding-right:10px;" />
       <img alt="Spring" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" style="padding-right:10px;" />
     </td>
     <td>
+        <img alt="MariaDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" style="padding-right:10px;" />
         <img alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
         <img alt="PostgreSQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
         <img alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
+    </td>
+    <td>
+        <img alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;" />
+        <img alt="Podman" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/podman/podman-original.svg" style="padding-right:10px;" />
+        <!-- <img alt="Azure" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" style="padding-right:10px;" /> -->
     </td>
   </tr>
 </table>
