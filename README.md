@@ -44,7 +44,7 @@
 
 <p align="center">
     <samp>
-        <a href="https://cavinlarry.netlify.app">Visit my website</a>
+        <a href="https://devcavin.vercel.app">Visit my website</a>
     </samp>
 </p>
 
@@ -56,7 +56,7 @@
 
 ## About Me
 
-- 👋 Hi, I’m [Cavin](https://cavinlarry.vercel.app) <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="25"></h3>
+- 👋 Hi, I’m [Cavin](https://devcavin.vercel.app) <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="25"></h3>
 - 👀 I’m a developer who loves listening to what humans and machines have say to me
 - 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on anything that I can help with
@@ -107,6 +107,7 @@ fun main() {
       <img alt="Spring" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" style="padding-right:10px;" />
     </td>
     <td>
+        <img alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
         <img alt="PostgreSQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
         <img alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
     </td>
