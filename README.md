@@ -19,7 +19,7 @@
     <samp>
         <strong>– CAVIN –</strong>
         <br/>
-        Software Developer | Open Source Contributor | BackEnd Developer(Ktor, SpringBoot)
+        Software Engineer | Open Source Contributor
     </samp>
 </p>
 
@@ -67,9 +67,9 @@
 ```kt
 class SoftwareEngineer(
     val name: String = "Cavin",
-    val role: String = "Software Developer",
-    val languages: List<String> = listOf("JavaScript", "TypeScript", "Python", "Kotlin"),
-    val interests: List<String> = listOf("Open Source", "AI/ML", "DevOps", "Mobile Development", "Backend Development"),
+    val role: String = "Software Engineer",
+    val languages: List<String> = listOf("JavaScript", "TypeScript", "Python", "Kotlin", "Java"),
+    val interests: List<String> = listOf("Open Source", "AI/ML", "DevOps", "Mobile Development", "BackEnd Development", "FrontEnd Development"),
     val hobbies: List<String>  = listOf("Gaming", "Reading", "Music", "Traveling", "Coding", "Learning")
 ) {
 
