@@ -4,16 +4,16 @@
     <img src="./images/banner.png" alt="profile banner image">
 </p>
 
-<p align="center">
+<!-- <p align="center">
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="coder image" width="150">
-</p>
+</p> -->
 
 <!-- GitHub Star link -->
-<p align="center">
+<!-- <p align="center">
     <a href="https://stars.github.com/profiles/devcavin/">
         <img src="./images/github-star.png" alt="GitHub Star"/>
     </a>
-</p>
+</p> -->
 
 <p align="center">
     <samp>
@@ -48,11 +48,11 @@
     </samp>
 </p>
 
-<p align="center">
+<!-- <p align="center">
     <samp>
        Cheers! 🥂🥂
     </samp>
-</p>
+</p> -->
 
 ## About Me
 
@@ -62,7 +62,7 @@
 - 💞️ I’m looking to collaborate on anything that I can help with
 - 📫 How to reach me on [Discord](https://discordapp.com/users/devcavin)
 
-<div style="display: flex; flex-direction: row-reverse; align-items:center; justify-conten: center;">
+<!-- <div style="display: flex; flex-direction: row-reverse; align-items:center; justify-conten: center;">
 
 ```kt
 class SoftwareEngineer(
@@ -84,7 +84,7 @@ fun main() {
 }
 ```
 
-</div>
+</div> -->
 
 ## Languages, Skills & Tools
 <div style="display: flex;">
@@ -120,7 +120,8 @@ fun main() {
         <img alt="Bash" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="padding-right:10px;" />
         <img alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;" />
         <img alt="Podman" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/podman/podman-original.svg" style="padding-right:10px;" />
-        <!-- <img alt="Azure" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" style="padding-right:10px;" /> -->
+        <img alt="Azure" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" style="padding-right:10px;" />
+        <img alt="Ansible" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" style="padding-right:10px;" />
     </td>
   </tr>
 </table>
