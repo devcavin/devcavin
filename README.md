@@ -142,9 +142,9 @@ fun main() {
         <img src="https://img.shields.io/badge/GitHub_Stats-unavailable-lightgray?style=for-the-badge" alt="GitHub Stats" style="width: 33%; height: auto; padding-right:10px;">
     </picture>
     <picture>
-      <source srcset="https://github-readme-stats-fast.vercel.app/api/top-langs?username=devcavin&count_private=true&show_icons=true&hide_border=false&layout=compact&langs_count=16&card_width=500&theme=yeblu" />
-        <source srcset="https://github-readme-stats.zcy.dev/api/top-langs?username=devcavin&count_private=true&show_icons=true&hide_border=false&layout=compact&langs_count=16&card_width=500&theme=yeblu" />
-        <source srcset="https://github-readme-stats-ten-neon-77.vercel.app/api/top-langs/?username=devcavin&count_private=true&show_icons=true&hide_border=false&layout=compact&langs_count=16&card_width=500&theme=yeblu"/>
+      <source srcset="https://github-readme-stats-fast.vercel.app/api/top-langs?username=devcavin&count_private=true&show_icons=true&hide_border=false&layout=compact&langs_count=12&card_width=500&theme=yeblu" />
+        <source srcset="https://github-readme-stats.zcy.dev/api/top-langs?username=devcavin&count_private=true&show_icons=true&hide_border=false&layout=compact&langs_count=12&card_width=500&theme=yeblu" />
+        <source srcset="https://github-readme-stats-ten-neon-77.vercel.app/api/top-langs/?username=devcavin&count_private=true&show_icons=true&hide_border=false&layout=compact&langs_count=12&card_width=500&theme=yeblu"/>
         <img src="https://img.shields.io/badge/Top_Langs-unavailable-lightgray?style=for-the-badge" alt="Top Langs" style="width: 29%; height: auto; padding-right:10px;">
     </picture>
 </div>
