@@ -1,8 +1,8 @@
-<!-- Killercavin@CalaTech -->
+<!-- devcavin@CalaTech -->
 
-<p align="center">
+<!-- <p align="center">
     <img src="./images/banner.png" alt="profile banner image">
-</p>
+</p> -->
 
 <!-- <p align="center">
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="coder image" width="150">
@@ -19,7 +19,7 @@
     <samp>
         <strong>– CAVIN –</strong>
         <br/>
-        Software Engineer | Open Source Contributor
+        Software Engineer | Network Technician (IP & Telecom)
     </samp>
 </p>
 
