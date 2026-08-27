@@ -131,8 +131,8 @@ fun main() {
 <div style="display: flex;">
     <picture>
         <source srcset="https://github-readme-streak-stats-eight.vercel.app?user=devcavin&theme=outrun" />
-        <!-- <source srcset="https://github-readme-streak-stats-mauve.vercel.app?user=devcavin&theme=outrun" /> -->
-        <!-- <source srcset="https://streak-stats.demolab.com?user=devcavin&theme=outrun" /> -->
+        <source srcset="https://github-readme-streak-stats-mauve.vercel.app?user=devcavin&theme=outrun" />
+        <source srcset="https://streak-stats.demolab.com?user=devcavin&theme=outrun" />
         <img src="https://img.shields.io/badge/GitHub_Streak-unavailable-lightgray?style=for-the-badge" alt="GitHub Streak" style="width: 35%; height: auto; padding-right:10px;">
     </picture>
     <picture>
