@@ -39,5 +39,3 @@ operate reliably in production.
 Gatelog is one of the projects where these interests come together 
 a cloud-deployable visitor management system built with Kotlin 
 and Spring Boot.
-
-[github.com/devcavin/gatelog](https://github.com/devcavin/gatelog)
