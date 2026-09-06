@@ -22,7 +22,7 @@ what it costs when they do.
 
 **Backend:** Spring Boot · Ktor
 
-**Databases:** PostgreSQL · MySQL · MongoDB
+**Databases:** PostgreSQL · MySQL · MariaDB · MongoDB
 
 **Tooling:** Docker · GitHub Actions · Flyway · Testcontainers
 
