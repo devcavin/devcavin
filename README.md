@@ -1,6 +1,6 @@
 <p align="center">
     <samp>
-        <strong>– CAVIN –</strong>
+        <strong>CAVIN</strong>
     </samp>
 </p>
 
