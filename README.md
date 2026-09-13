@@ -2,7 +2,7 @@
     <samp>
         <strong>CAVIN</strong>
         <br/>
-        Software Engineer · Network Technician
+        Software Engineer
     </samp>
 </p>
 
