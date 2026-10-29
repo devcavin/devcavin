@@ -26,7 +26,7 @@ I value clear architecture, maintainable code, and engineering decisions grounde
 
 ## Featured Project
 
-### Gatelog - [github.com/devcavin/gatelog](https://github.com/devcavin/gatelog)
+### Gatelog
 
 A cloud-deployable visitor management system built with Kotlin and Spring Boot.
 
