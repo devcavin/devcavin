@@ -47,11 +47,3 @@ I'm particularly interested in:
 - Software reliability, deployment, and operational concerns
 
 I also explore open-source projects in the JVM ecosystem, with an interest in contributing to libraries and tools I use in my own work.
-
-## Development Principles
-
-- **Clarity over unnecessary complexity**
-- **Reliability over assumptions**
-- **Testing as part of the development process**
-- **Documentation that explains both how and why**
-- **Maintainability as a design consideration**
