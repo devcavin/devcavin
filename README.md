@@ -2,48 +2,21 @@
   <strong>CAVIN</strong>
   <br/>
   Software Engineer
-  <br/><br/>
-  Building backend systems with a focus on reliability, transactions, and maintainability.
 </p>
 
 ---
 
 ## About
 
-Backend software engineer working primarily in the JVM ecosystem. Kotlin is my main language, with Java as a core part of my foundation. I also work with TypeScript and JavaScript.
+I work primarily on backend software and application development.
 
-My background is in network infrastructure, including OSP fibre deployment and ISP field operations. That experience shapes how I approach software engineering: understanding how systems communicate, where failures occur, and what it takes to keep systems reliable in production.
+My main languages are Kotlin and Java. I also work with TypeScript and JavaScript.
 
-I value clear architecture, maintainable code, and engineering decisions grounded in practical requirements.
+Previously, I worked in network infrastructure, including OSP fibre deployment and ISP field operations.
 
 ## Technical Stack
 
-- **Languages:** Kotlin, Java, TypeScript, JavaScript
+- **Languages:** Kotlin, Java, TypeScript, JavaScript, Go(learning)
 - **Backend:** Spring Boot, Ktor
 - **Databases:** PostgreSQL, MySQL, MongoDB
 - **Infrastructure & Tooling:** Docker, Podman, GitHub Actions
-- **Deployment:** Render
-
-## Featured Project
-
-### Gatelog
-
-A cloud-deployable visitor management system built with Kotlin and Spring Boot.
-
-Gatelog brings together my interests in backend development, application architecture, and reliable systems.
-
-- **Backend:** Kotlin, Spring Boot
-- **Database:** PostgreSQL
-- **Engineering focus:** API design, authentication, database migrations, and maintainable backend architecture
-
-## Engineering Focus
-
-I'm particularly interested in:
-
-- JVM backend development with Kotlin and Java
-- Transactional systems and relational database design
-- API security, authentication, and authorization
-- Automated testing and continuous integration
-- Software reliability, deployment, and operational concerns
-
-I also explore open-source projects in the JVM ecosystem, with an interest in contributing to libraries and tools I use in my own work.
