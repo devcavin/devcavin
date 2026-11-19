@@ -16,7 +16,7 @@ Previously, I worked in network infrastructure, including OSP fibre deployment a
 
 ## Technical Stack
 
-- **Languages:** Kotlin, Java, TypeScript, JavaScript, Go(learning)
+- **Languages:** Kotlin, Java, TypeScript, JavaScript, Go
 - **Backend:** Spring Boot, Ktor
 - **Databases:** PostgreSQL, MySQL, MongoDB
 - **Infrastructure & Tooling:** Docker, Podman, GitHub Actions
