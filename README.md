@@ -10,7 +10,7 @@
 
 I work primarily on backend software and application development.
 
-My main languages are Kotlin and Java. I also work with TypeScript and JavaScript, and I'm currently learning Go.
+My primary programming languages are Kotlin and Java. I also work with TypeScript and JavaScript, and I'm currently exploring Go.
 
 Previously, I worked in network infrastructure, including OSP fibre deployment and ISP field operations.
 
